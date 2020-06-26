@@ -1,5 +1,5 @@
 ---
-title: Landing
+title: About Us
 layout: landing
 description: 'A little about who we are,<br />some FAQ's and more.'
 image: assets/images/about.jpg
