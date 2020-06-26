@@ -82,7 +82,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Are you interested?</h2>
 		</header>
-		<p>If you are interest check out our menu of items.</p>
+		<p>Please check out our current menu of items. Come back to see if we have any seasonal offerings.</p>
 		<ul class="actions">
 			<li><a href="menu.html" class="button">Menu</a></li> <!-- Change href to correct link -->
 		</ul> 
