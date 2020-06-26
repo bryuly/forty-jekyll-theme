@@ -1,17 +1,19 @@
 # site settings
 title: BAY Homegoods
 subtitle: #by BRYuly
-email: hello@bayhomegoods.com
+main_header: Welcome to BAY Homegoods
 description: Where our goal is to bring home baked goods <br /> from our home to yours!
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Brad Yuly
+email: hello@bayhomegoods.com
+phone: (123) 456-7890
 street_address: 1311 W Verbena Dr.
 city: Meridian
 state: Idaho
 zip_code: 83642
 country: United States of America
-phone: (123) 456-7890
+
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
