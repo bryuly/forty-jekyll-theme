@@ -1,8 +1,8 @@
 # site settings
 title: BAY Homegoods
-subtitle: by BRYuly
+subtitle: #by BRYuly
 email: hello@bayhomegoods.com
-description: A responsive site template designed by HTML5 Up<br /> modified by BRYuly and released under the Creative Commons.
+description: Where our goal is to bring home baked goods <br /> from our home to yours!
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Brad Yuly
