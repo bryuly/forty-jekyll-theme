@@ -65,12 +65,12 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>more...?</h3>  <!-- header title -->
+					<h3>Have more questions?</h3>  <!-- header title -->
 				</header>
-				<p>more info here... </p>
-				<!--<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul> -->
+				<p>If you have any more questions for us please contact us by clicking on Contact Info. </p>
+				<ul class="actions">
+					<li><a href="contact.html" class="button">Contact Info</a></li>  <!-- Change href to correct link -->
+				</ul>
 			</div>
 		</div>
 	</section>
