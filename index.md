@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to BAY Homegoods'
+index-title: 'Thank You!'
 description: null
 image: null
 author: null
