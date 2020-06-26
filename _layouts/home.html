@@ -16,7 +16,7 @@
     <section id="banner" class="major">
         <div class="inner">
             <header class="major">
-                <h1>{{ site.main_header}} </h1> <!-- {{ page.landing-title }}-->
+                <h1>{{ site.main_header}} </h1>
             </header>
             <div class="content">
                 <p style="text-transform: uppercase;">{{ site.description }}</p>
@@ -31,13 +31,13 @@
     <div id="main">
 
         <!-- One -->
-        {% include tiles.html %}
+        {% include tiles.html %}  <!--This houses all of the individual pages -->
 
-        <!-- Two -->
+        <!-- Two -->  <!-- This section houses just the last part (index) -->
         <section id="two">
             <div class="inner">
                 <header class="major">
-                    <h2>Massa libero</h2>
+                    <h2> {{ page.landing_title}} </h2>
                 </header>
                 <p>{{ content }}</p>
                 <ul class="actions">
