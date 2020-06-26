@@ -19,12 +19,12 @@
 		background: transparentize(_palette(bg), 0.1);
 		box-shadow: none;
 		height: 70%; //100%;
-		left: 50%;//0;
+		left: 25%;//0;
 		opacity: 0;
 		overflow: hidden;
 		padding: 3em 2em;
 		position: fixed;
-		top: 50%; //0;
+		top: 25%; //0;
 		visibility: hidden;
 		width: 50%; //100%;
 		z-index: _misc(z-index-base) + 2;
