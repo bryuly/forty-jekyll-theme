@@ -18,7 +18,7 @@
 		@include vendor('pointer-events', 'none');
 		background: transparentize(_palette(bg), 0.1);
 		box-shadow: none;
-		height: 100%;
+		height: 70%; //100
 		left: 0;
 		opacity: 0;
 		overflow: hidden;
@@ -26,7 +26,7 @@
 		position: fixed;
 		top: 0;
 		visibility: hidden;
-		width: 100%;
+		width: 50%; //100
 		z-index: _misc(z-index-base) + 2;
 
 		.inner {
