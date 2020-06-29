@@ -6,48 +6,12 @@
 
 <body>
 
-    {% include header.html %}
-
-    <!-- Banner -->
-    <!-- <section id="banner" class="major">
-        <div class="inner">
-            <header class="major">
-                <h1>{{ site.main_header}} </h1>
-            </header>
-            <div class="content">
-                <p style="text-transform: uppercase;">{{ site.description }}</p>
-                <ul class="actions">
-                    <li><a href="#one" class="button next scrolly">Order Now!</a></li>
-                </ul>
-            </div>
-        </div>
-    </section>
-
-    <!-- Main -->
-    <!-- <div id="main">
-
-        <!-- One -->
-      <!--    {% include tiles.html %}  <!--This houses all of the individual pages -->
-
-        <!-- Two -->  <!-- This section houses just the last part (index) -->
-         <!-- <section id="two">
-            <div class="inner">
-                <header class="major">
-                    <h2> {{ page.index-title}} </h2>
-                </header>
-                <p>{{ content }}</p>
-                <ul class="actions">
-                    <li><a href="landing.html" class="button next">Order Now!</a></li>
-                </ul>
-            </div>
-        </section>
-
-    </div> 
--->
-    {% include contact.html %}
-    {% include footer.html %}
+    {% include header.html %} {{ content }} {% include contact.html %} {% include footer.html %}
 
 </body>
 
 </html>
+
+
+
 
