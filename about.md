@@ -1,0 +1,19 @@
+---
+layout: about
+title: About
+nav-menu: true
+---
+
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Elements</h1>
+		</header>
+
+<!-- Content -->
+<h2 id="content">Sample Content</h2>
+<p>This is just sample text to test visibility.</p>
