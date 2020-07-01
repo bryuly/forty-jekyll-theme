@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-index-title: 'Thank You!'
+index-title: 'We Appreciate You!'
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Thank you for visiting our website, if you would like to order from us please click the link below.
+Thank you for visiting our website, if you would like to learn more about us, or contact us click the About Us button.
