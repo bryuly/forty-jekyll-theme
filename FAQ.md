@@ -55,9 +55,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Have more questions?</h3>  <!-- header title -->
 				</header>
-				<p>If you have any more questions for us please contact us by clicking on Contact Info. </p>
+				<p>If you have any more questions for us please contact us by clicking on About Us. </p>
 				<ul class="actions">
-					<li><a href="contact.html" class="button">Contact Info</a></li>  <!-- Change href to correct link -->
+					<li><a href="about.html" class="button">About Us</a></li>  <!-- Change href to correct link -->
 				</ul>
 			</div>
 		</div>
