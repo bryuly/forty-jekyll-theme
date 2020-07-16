@@ -68,7 +68,7 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h3>Are you interested?</h3>
+			<h3>Are you interested in trying our goods?</h3>
 		</header>
 		<p>Please check out our current menu of items. Come back to see if we have any seasonal offerings.</p>
 		<ul class="actions">
