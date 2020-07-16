@@ -1,6 +1,6 @@
 ---
 title: FAQ's
-layout: landing
+layout: FAQ
 description: 'A place to see some common questions,<br />and more.'
 image: assets/images/about.jpg
 nav-menu: true
